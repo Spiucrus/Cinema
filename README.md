@@ -9,4 +9,4 @@ Cinema has been a part of the entertainment industry for a long time: a good mov
 [comment]: <> (![Administrator portal 2]&#40;./resources/admin_2.jpg&#41;)
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](Cinema.gif)
