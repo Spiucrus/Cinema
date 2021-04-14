@@ -30,7 +30,7 @@ public class TestCinema {
                         System.exit(0);
                         break;
                     default:
-                        System.out.println("Cinema.Input wrong number");
+                        System.out.println("Input wrong number");
                         break;
                 }
             } catch (Exception e) {
