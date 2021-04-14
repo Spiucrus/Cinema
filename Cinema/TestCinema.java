@@ -1,4 +1,4 @@
-package cinema;
+package Cinema;
 
 public class TestCinema {
 
@@ -30,7 +30,7 @@ public class TestCinema {
                         System.exit(0);
                         break;
                     default:
-                        System.out.println("Input wrong number");
+                        System.out.println("Cinema.Input wrong number");
                         break;
                 }
             } catch (Exception e) {

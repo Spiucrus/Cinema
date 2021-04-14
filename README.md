@@ -8,4 +8,4 @@ In this project, you will create an application that helps manage a cinema theat
 [comment]: <> (![Administrator portal 2]&#40;./resources/admin_2.jpg&#41;)
 
 
-![Alt Text](Cinema.gif)
+![Alt Text](files/Cinema.gif)
